@@ -1,0 +1,8 @@
+*.log
+Marlin_Strix_dev/.pio
+Marlin_Strix_dev/.vscode/.browse.c_cpp.db*
+Marlin_Strix_dev/.vscode/c_cpp_properties.json
+Marlin_Strix_dev/.vscode/launch.json
+Marlin_Strix_dev/.vscode/ipch
+Marlin_Strix_dev/.vscode/extensions.json
+*.pyc
