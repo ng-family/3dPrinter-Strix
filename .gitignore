@@ -6,3 +6,4 @@ Marlin_Strix_dev/.vscode/launch.json
 Marlin_Strix_dev/.vscode/ipch
 Marlin_Strix_dev/.vscode/extensions.json
 *.pyc
+Marlin_Strix_dev/buildroot/share/PlatformIO/scripts/__pycache__/
