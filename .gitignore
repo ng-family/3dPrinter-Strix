@@ -8,4 +8,3 @@ Marlin_Strix_dev/.vscode/extensions.json
 *.pyc
 Marlin_Strix_dev/buildroot/share/PlatformIO/scripts/__pycache__/
 *.cpp
-Marlin-Strix-dev/.vscode/extensions.json
