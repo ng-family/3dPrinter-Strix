@@ -14,3 +14,9 @@ MCU: STM32F407VGT6
 
 ## Printer Physicals
 Bed origin is X:38 Y:8
+
+## Slicer Settings
+**Speed**<br/>
+Travel Speed: 60.0 mm/s. Slowed down to minimize collision damage<br/>
+**Travel**<br/>
+Retraction Distance: 2.0 mm. Decreased to stop voids
