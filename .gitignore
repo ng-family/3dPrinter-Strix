@@ -142,6 +142,9 @@ vc-fileutils.settings
 # Visual Studio Code
 .vscode/*
 !.vscode/extensions.json
+Marlin-2.1.1-clone/.vscode/*
+!Marlin-2.1.1-clone/.vscode/extensions.json
+
 
 #Simulation
 imgui.ini
