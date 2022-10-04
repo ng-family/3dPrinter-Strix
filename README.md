@@ -13,6 +13,7 @@ https://github.com/bigtreetech/SKR-2<br/>
 MCU: STM32F407VGT6
 
 ## Printer Physicals
+Print Volume: 220x220x220 (x y z)<br/>
 Bed origin is X:38 Y:8
 
 ## Slicer Settings
