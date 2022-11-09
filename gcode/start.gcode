@@ -1,4 +1,3 @@
-;Sliced at: {day} {date} {time}
 ;Corrected for Strix v1.2.0
 G21                 ;metric values
 G90                 ;absolute positioning
