@@ -1,5 +1,6 @@
 # 3dPrinter
-Anything related to my 3d printer Strix
+<p align="center">
+<img src="img/strix.2023.3.jpg" height="500" alt="Strix" /></p>
 
 # Marlin
 Essentially forked the marlin code from https://github.com/MarlinFirmware/.  I recommend doing the same to get the latest.
