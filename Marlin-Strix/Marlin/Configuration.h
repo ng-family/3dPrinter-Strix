@@ -1694,12 +1694,12 @@
 // @section geometry
 
 // The size of the printable area
-#define X_BED_SIZE 240 // ngf
+#define X_BED_SIZE 220 // ngf
 #define Y_BED_SIZE 240 // ngf
 
 // Travel limits (linear=mm, rotational=°) after homing, corresponding to endstop positions.
-#define X_MIN_POS -30 // ngf
-#define Y_MIN_POS -9.5 // ngf
+#define X_MIN_POS -25 // ngf
+#define Y_MIN_POS 0 // ngf
 #define Z_MIN_POS 0 // ngf
 #define X_MAX_POS X_BED_SIZE // ngf
 #define Y_MAX_POS Y_BED_SIZE // ngf
