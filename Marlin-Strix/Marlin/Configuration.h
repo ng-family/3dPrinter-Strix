@@ -734,7 +734,7 @@
  * the issues involved, don't use bed PID until someone else verifies that your hardware works.
  * @section bed temp
  */
-//#define PIDTEMPBED
+#define PIDTEMPBED // Issue 7 ngf
 
 //#define BED_LIMIT_SWITCHING
 
